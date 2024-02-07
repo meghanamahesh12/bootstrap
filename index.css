@@ -1,0 +1,43 @@
+
+img{
+    width: 100%;
+  }
+  .part1 h3{
+    text-align: justify;
+    border-radius: 3px;
+    border: 1px solid black;
+
+  }
+  .p{
+    text-align: justify;
+  }
+
+
+  .container{
+    font-style: italic;
+  }
+
+  .p3{
+    height: 60;
+    width: 30;
+    border: 1px solid black;
+  }
+  .p4{
+    height: 60;
+    width: 30;
+    border: 1px solid black;
+  }
+  .p5{
+    height: 40;
+    width: 20;
+    border: 1px solid black;
+    right: 0px;
+  }
+  .cart{
+    height: 60px;
+    width: 300px;
+    background-color: aqua;
+    color: black;
+    border: 2px solid black;
+  }
+  
